@@ -1,2 +1,14 @@
-nama : lala
-kelas : XI PPLG 2
+Belajar React Pak Willy
+catatan lala XI PPLG 2
+
+
+1. git init
+2. git add test.txt
+3. git commit -m "commit pertama"
+4. git branch -M main
+5. git remote add origin (paste link GitHub) 
+6. git push -u origin main 
+7. git add "test.txt"
+8. git commit -m "menambahkan keterangan nama"
+9. 
+10. 
